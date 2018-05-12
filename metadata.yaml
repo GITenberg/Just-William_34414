@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7152
     wikipedia: http://en.wikipedia.org/wiki/Richmal_Crompton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34414#Just-William
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2010-11-23'
 gutenberg_type: Text
